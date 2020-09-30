@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi Pagina</title>
+	</head>
+	<body>
+	    <p id="parrafo1" class="parrafo" style="color:Red">Parrafo 1</p>
+	    <p id="parrafo2" class="parrafo" style="color:Blue">Parrafo 2</p>
+	    <p id="parrafo3" class="parrafo" style="color:Green">Parrafo 3</p>
+	    <p id="parrafo4" class="parrafo" style="color:Orange">Parrafo 4</p>
+	    <img src="C:\python\logoumg.jpg" >imagen</img>
+	    </body>	
+</html>

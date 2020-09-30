@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style1.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+	<p id ="title">Empezando en CSS</p>
+	<p id="parrafo" >Estamos colocando una etiqueta y un color de a la misma </p>
+		<br />
+		<label id ="Important"> Etiqueta1</label>
+	     </body>	
+</html>

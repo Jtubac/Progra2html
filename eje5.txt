@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+	<title>Empezando en CSS</title>
+	<p id="parrafo" >Este parrafo obtine el color de fuente desde un archivo CSS
+		estilo enlazado 
+	</p>
+	</body>	
+</html> 

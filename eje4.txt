@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mi Pagina</title>
+	</head>
+	<body>
+	    <p id="parrafo1" class="parrafo" style="color:Red">TEXTO COLOR ROJO</p>
+	    <p id="p1" class="parrafo" style="color:Red">En el primer enucniado el color de las letras es ROJO</p>
+	    <p id="parrafo2" class="parrafo" style="color:Blue">TEXTO COLOR AZUL</p>
+	    <p id="p2" class="parrafo" style="color:Blue">En este encunciado el color de nuestras letras de Azul</p>
+	    <p id="parrafo3" class="parrafo" style="color:Green">TEXTO COLOR VERDE</p>
+	    <p id="p3" class="parrafo" style="color:Green">En esta linea de texto colocamos nuetras letra de color Verde</p>
+	    <p id="parrafo4" class="parrafo" style="color:Orange">TEXTO COLOR AMARILLO</p>
+	    <p id="p4" class="parrafo" style="color:Orange">Esta linea de texto su color es Naranja </p>
+	    <img src="C:\python\logoumg.jpg" >
+	    <p id="p5" class="parrafo" style="color:Black">Por ultimo colocamos una imagen nuestra pagina</p>
+	    </body>	
+</html>
